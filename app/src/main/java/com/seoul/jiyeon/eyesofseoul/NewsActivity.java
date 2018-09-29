@@ -159,7 +159,7 @@ public class NewsActivity extends AppCompatActivity implements TextToSpeech.OnIn
 
         });
     }
-    
+
     public String[][] newsJsonParser(String jsonString) throws JSONException {
 
         try {
