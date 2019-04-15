@@ -209,7 +209,7 @@ public class NewsActivity extends AppCompatActivity implements TextToSpeech.OnIn
         protected StringBuffer doInBackground(String... search) {
             StringBuffer sb = new StringBuffer();
             String clientID = "qoV_o0JFXTXLeGQHxVp5";
-            String clientSecret = "NB1rRZLIVm";
+            String clientSecret = "**";
 
 
             try {
